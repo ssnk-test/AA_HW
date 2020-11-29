@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="top_menu_name">Movie list</string>
+    <string name="movie1_tag">Action, Adventure, Drama</string>
+    <string name="movie1_pg">13+</string>
+    <string name="movie1_name">Avengers: End Game</string>
+    <string name="movie1_len">137 min</string>
+    <string name="movies_reviews">125 Reviews</string>
 </resources>
